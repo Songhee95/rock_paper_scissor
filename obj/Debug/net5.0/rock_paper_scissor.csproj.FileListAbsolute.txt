@@ -1,0 +1,16 @@
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\bin\Debug\net5.0\rock_paper_scissor.exe
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\bin\Debug\net5.0\rock_paper_scissor.deps.json
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\bin\Debug\net5.0\rock_paper_scissor.runtimeconfig.json
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\bin\Debug\net5.0\rock_paper_scissor.runtimeconfig.dev.json
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\bin\Debug\net5.0\rock_paper_scissor.dll
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\bin\Debug\net5.0\ref\rock_paper_scissor.dll
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\bin\Debug\net5.0\rock_paper_scissor.pdb
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\rock_paper_scissor.csprojAssemblyReference.cache
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\rock_paper_scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\rock_paper_scissor.AssemblyInfoInputs.cache
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\rock_paper_scissor.AssemblyInfo.cs
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\rock_paper_scissor.csproj.CoreCompileInputs.cache
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\rock_paper_scissor.dll
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\ref\rock_paper_scissor.dll
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\rock_paper_scissor.pdb
+C:\Users\thdgm\gt-pt\tech_lang\C#\rock_paper_scissor\obj\Debug\net5.0\rock_paper_scissor.genruntimeconfig.cache
